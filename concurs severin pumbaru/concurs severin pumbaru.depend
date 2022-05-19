@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652902571 source:c:\users\satoi\desktop\concurs severin pumbaru\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
